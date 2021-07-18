@@ -1,0 +1,69 @@
+h1{
+    font-family: 'Roboto Slab', serif;
+    color:#2f3640;
+
+}
+body{
+    margin: 0;
+}
+h3{
+    font-family: 'Roboto Slab', serif;
+    color: #2f3640;
+}
+.highlight{
+    color: #00a8ff;
+}
+.af { font-family: 'Lato', sans-serif;
+    color: #2f3542;
+    
+}
+p{
+    font-family: 'Lato', sans-serif;
+    color: #57606f;
+}
+.half-width{ width: 40%; float: left; padding-left: 2%; margin-left: 5%;}
+.half-width img{
+    width: 80%;
+}
+.top-banner{ background-image: url("img/top-banner.png");background-repeat: no-repeat;}
+section{height: 500px;}
+.link-button{ font-family: 'lato', sans-serif; text-decoration: none;background-image: linear-gradient(45deg,#54a0ff,#2e86de);
+padding: 10px 20px; border-radius: 6px; font-weight: 700; width: bold; color: white;}
+.secound{
+    background-image: url(img/dream-bg.png);
+    background-repeat:no-repeat;
+    background-position: right;
+}
+
+.box{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 6px;
+    
+
+}
+.experiance-area{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#ded{
+    border-left: 7px solid;
+    border-image: linear-gradient( 180deg, #e55039, #eb2f06);
+    border-image-slice: 1;
+}
+#des{
+    border-left: 7px solid;
+    border-image: linear-gradient( 180deg,#6a89cc,#4a69bd);
+    border-image-slice: 1;
+}
+.footer {
+    text-align: center;
+    height: 12px;
+}
+h2:hover{
+    color: #6a89cc;
+    font-size: large;
+}
+li::before{
+    hello
+}
